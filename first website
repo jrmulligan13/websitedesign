@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <<title>my first website</title>
+  </head>
+  <body>
+    <h1> lets go </h1>
+    <p>this is the first paragraph</p>
+  </body>
+  <h2>first headline</h2>
+  <p>second paragraph</p>
+  <h2><em>lists<em/> <h2>
+    <p> this is a list <P>
+      <ul>
+        <li><strong>number 1<strong/></li>
+        <li>number2</li>
+        <li>number 3</li>
+  <h6>best wishes,<br/>
+     yourself<h6>
+      </ul>
+</html>
