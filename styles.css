@@ -1,0 +1,29 @@
+body {
+  color: #000000;    /* Dark gray */
+  background-color:#c4c7f9;
+  border-style: double;
+  border-width: 5px;
+  padding:10px;
+}
+div {
+    width: 300px;
+    border-style: dashed;
+    border-width:25px;
+    border-color:#BB7EB5;
+    padding: 25px;
+    margin:auto;
+    font font-family: "calibri", "arial",sans-serif;
+  }
+h1 {
+  color: AFF2E0;
+  text-align: center;
+  font-family: "Calibri", "Arial", sans-serif;
+  }
+h2 {color: AFF2E0;
+    text-align: center;
+    font-family: "calibri", "Arial", sans-serif;
+  }
+p {
+  text-align: center;
+  font-family: "calibri", "arial", sans-serif;
+}
